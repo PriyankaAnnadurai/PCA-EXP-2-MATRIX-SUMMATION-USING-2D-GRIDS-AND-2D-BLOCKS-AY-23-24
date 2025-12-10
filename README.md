@@ -37,8 +37,8 @@ Google Colab with NVCC Compiler
 
 ## PROGRAM:
 ```
-Developed By : Niraunjana Gayathri G R
-Register No. : 212222230096
+Developed By : Priyanka A
+Register No. : 212222230113
 ```
 
 ```
