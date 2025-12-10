@@ -43,7 +43,7 @@ Google Colab with NVCC Compiler
 - Validate and release memory – Compare results and free host/device resources.
 
 ## PROGRAM:
-```
+```py
 %%writefile sumMatrix2D.cu
 #include <cuda_runtime.h>
 #include <stdio.h>
